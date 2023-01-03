@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Sedan",
+    "id": "ff161d3e-e6c2-4cc0-812f-7adfd45d3a9d",
+    "carsIds": [
+      1,
+      1,
+      1
+    ],
+    "price": "50.96"
+  }
+]
